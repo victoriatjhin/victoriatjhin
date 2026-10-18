@@ -4,7 +4,7 @@ Nanotechnology Engineering at the University of Waterloo. I work on both sides o
 
 Currently a research assistant at the **Institute for Quantum Computing**, fabricating carbon nanotube single photon detectors and building the Python pipeline that automates our UV-Vis analysis.
 
-**Looking for software, hardware, and electrical engineering co-op roles.**
+**Current interests:** AI software and hardware, computer architecture, and digital and mixed-signal IC design.
 
 [Portfolio](https://victoriatjhin.github.io) · [LinkedIn](https://www.linkedin.com/in/eetjhin) · eetjhin@uwaterloo.ca
 
